@@ -56,6 +56,10 @@ section {
     text-decoration: none;
 }
 
+.tombol-cv {
+    text-decoration:none
+}
+
 .section-right{
     flex: 50%;
     margin-top: 50px;
