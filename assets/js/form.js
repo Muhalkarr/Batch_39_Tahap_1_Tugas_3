@@ -18,11 +18,11 @@ function submitData() {
       return alert("Sedih... Pesannya gak diisi")
    }
 
-   //  console.log(name);
-   //  console.log(email);
-   //  console.log(phone);
-   //  console.log(subject);
-   //  console.log(message);
+    console.log(name);
+    console.log(email);
+    console.log(phone);
+    console.log(subject);
+    console.log(message);
 
    let emailReceiver = "muhamamadabdulkholikarrasyid@gmail.com"
 
